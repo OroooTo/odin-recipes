@@ -1,0 +1,52 @@
+#homepage {
+    display:block;
+    text-align: center;
+    color: white;
+    background-color: salmon;
+    font-size: 60px;
+    font-family:'Tahoma', sans-serif ;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(240, 114, 100);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.index-list li {
+    list-style: none;
+}
+
+ul {
+    color: brown;
+}
+
+ol  {
+    color: brown;
+}
+/* hyperlink */
+
+a:link {
+    background-color: rgb(221, 80, 123);
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-size: 24px;
+}
+a:visited {
+    background-color: rgb(221, 80, 202);
+    color: white
+}
+a:hover {
+    background-color: rgb(190, 61, 100);
+    color: white
+}
+a:active {
+    background-color: rgb(236, 15, 82);
+    color: white;
+
+}
